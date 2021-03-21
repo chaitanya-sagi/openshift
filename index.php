@@ -1,3 +1,3 @@
 <? php
-Print "Welcome to OCP"
+echo "Welcome to OCP"
 ?>
